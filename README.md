@@ -5,7 +5,7 @@
 
 <br/>  
 
-### <div align="center">I'm Ehsaan Qazi, a Full Stack Web Developer, and a Web Application Security Researcher👨‍💻 </div>  
+### <div align="center">I'm Ehsaan Qazi <br/>Full Stack Web Developer |  Web Application Security Researcher👨‍💻 </div>  
   
 
 - 🔭 I’m currently learning Advanced Web Application Security   
@@ -23,12 +23,11 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
+<table><tr><td valign="top" width="100%">
 
 
 
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -73,6 +72,11 @@
 
 <br/>  
 
+<br/>  
+
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ehsaanqazi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 ## Connect with me  
 <div align="center">
@@ -97,26 +101,11 @@
 </div>  
   
 
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ehsaanqazi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
