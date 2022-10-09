@@ -5,7 +5,7 @@
 
 <br/>  
 
-### <div align="center">I'm Ehsaan Qazi <br/>Full Stack Web Developer |  Web Application Security Researcher👨‍💻 </div>  
+### <div align="center"><h1>I'm Ehsaan Qazi </h1> <br/>Full Stack Web Developer |  Web Application Security Researcher👨‍💻 </div>  
   
 
 - 🔭 I’m currently learning Advanced Web Application Security   
